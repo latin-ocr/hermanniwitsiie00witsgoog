@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./hermanniwitsiie00witsgoog_0432.png"; bbox 0 0 4150 5150; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 304 1808 1957 2069">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 117 1775 1957 2069">
+     <span class='ocr_line' id='line_1_1' title="bbox 304 1808 1957 2069; baseline -0.01 -26.931"><span class='ocrx_word' id='word_1_1' title='bbox 304 1862 934 2069; x_wconf 70' lang='lat' dir='ltr'>HERMANNJ</span> <span class='ocrx_word' id='word_1_2' title='bbox 1035 1854 1475 2041; x_wconf 77' lang='lat' dir='ltr'>W1Ts11·</span> <span class='ocrx_word' id='word_1_3' title='bbox 1562 1885 1565 1893; x_wconf 70' lang='grc'><em>’</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1956 1808 1957 1811; x_wconf 0' lang='grc' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 187 2178 1559 2495">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 117 2082 1559 2536">
+     <span class='ocr_line' id='line_1_2' title="bbox 187 2178 1559 2495; baseline -0.001 -96.097"><span class='ocrx_word' id='word_1_5' title='bbox 187 2178 1559 2495; x_wconf 69' lang='lat' dir='ltr'><strong>EXERCITATloNEs</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 817 2606 1218 2753">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 817 2606 1218 2753">
+     <span class='ocr_line' id='line_1_3' title="bbox 817 2606 1218 2753; baseline -0.002 -47"><span class='ocrx_word' id='word_1_6' title='bbox 817 2606 911 2706; x_wconf 82' lang='lat' dir='ltr'>1N</span> <span class='ocrx_word' id='word_1_7' title='bbox 1216 2747 1218 2753; x_wconf 8' lang='grc' dir='ltr'>Ι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 206 2921 1486 3131">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 206 2921 1486 3131">
+     <span class='ocr_line' id='line_1_4' title="bbox 206 2921 1486 3131; baseline -0.002 -43"><span class='ocrx_word' id='word_1_8' title='bbox 206 3047 210 3055; x_wconf 93' lang='grc'><strong>-</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 322 2973 327 2980; x_wconf 86' lang='grc'><strong><em>’</em></strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 408 2937 413 2944; x_wconf 55' lang='grc'>’</span> <span class='ocrx_word' id='word_1_11' title='bbox 491 2949 821 3131; x_wconf 61' lang='lat' dir='ltr'><em>Orationem</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 856 2951 1226 3094; x_wconf 73' lang='lat' dir='ltr'><em>Dminicam.</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 1403 2966 1405 2976; x_wconf 80' lang='grc'>’</span> <span class='ocrx_word' id='word_1_14' title='bbox 1483 2921 1486 2934; x_wconf 29' lang='lat'>¹</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 2080 5150">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 2080 5150">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 2080 5150; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 2080 5150; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
